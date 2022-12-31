@@ -1,3 +1,5 @@
+## Preview 
+You can preview the live site [here](https://main.dudm8n9b8npnh.amplifyapp.com/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
