@@ -39,8 +39,15 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## `Connect to AWS Amplify`
+The AWS Amplify Console provides continuous deployment and hosting for modern web apps (single page apps and static site generators) with serverless backends. The Amplify Console offers globally available CDNs, custom domain setup, feature branch deployments, and password protection.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Login to the Amplify Console [here](https://aws.amazon.com/amplify/pricing/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Connect your Create React App repo and pick a branch. If you're looking for a Create React App+Amplify starter, try the create-react-app-auth-amplify starter that demonstrates setting up auth in 10 minutes with Create React App.
+
+The Amplify Console automatically detects the build settings. Choose Next.
+
+Choose Save and deploy.
+
+If the build succeeds, the app is deployed and hosted on a global CDN with an amplifyapp.com domain. You can now continuously deploy changes to your frontend or backend. Continuous deployment allows developers to deploy updates to their frontend and backend on every code commit to their Git repository.
