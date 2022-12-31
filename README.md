@@ -39,12 +39,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## `Connect to AWS Amplify`
+## `connect to AWS amplify`
 The AWS Amplify Console provides continuous deployment and hosting for modern web apps (single page apps and static site generators) with serverless backends. The Amplify Console offers globally available CDNs, custom domain setup, feature branch deployments, and password protection.
 
 Login to the Amplify Console [here](https://aws.amazon.com/amplify/pricing/)
 
-Connect your Create React App repo and pick a branch. If you're looking for a Create React App+Amplify starter, try the create-react-app-auth-amplify starter that demonstrates setting up auth in 10 minutes with Create React App.
+Connect your Create React App repo and pick a branch. If you're looking for a Create React App+Amplify starter, try the [create-react-app-auth-amplify starter](https://github.com/swaminator/create-react-app-auth-amplify) that demonstrates setting up auth in 10 minutes with Create React App.
 
 The Amplify Console automatically detects the build settings. Choose Next.
 
